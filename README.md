@@ -1,4 +1,4 @@
-# OLA-Ensemble-Business-Case
+
 # OLA Driver Churn Prediction: An Ensemble Learning Approach
 
 ## Project Overview
@@ -95,5 +95,3 @@ Based on these findings, we recommend the following strategies for Ola:
 3.  **Proactive Performance Intervention:** Develop an automated alert system to identify drivers with declining `Quarterly Rating` or `Total Business Value`, followed by targeted support or personalized feedback.
 4.  **Enhance Onboarding Clarity:** Improve initial training to clearly explain `Joining_Designation` and potential career progression paths within Ola to boost driver morale and long-term commitment.
 5.  **Continuous Model Monitoring:** Regularly monitor the churn prediction model's performance with new data and retrain it periodically to adapt to changing driver behavior and market conditions.
-
-## Repository Structure
